@@ -1,0 +1,48 @@
+---Item 1:
+The name is: LGG6
+The manufacturer is: LG
+The ID is: 34
+The release year is: 2017
+The price is: 650.00
+The screen size is: 5.70
+
+---Item 2:
+The name is: Nexus6
+The manufacturer is: Motorola
+The ID is: 42
+The release year is: 2014
+The price is: 649.00
+The screen size is: 5.96
+
+---Item 3:
+The name is: OnePlus2
+The manufacturer is: OnePlus
+The ID is: 13
+The release year is: 2015
+The price is: 390.00
+The screen size is: 5.50
+
+---Item 4:
+The name is: Pixel2
+The manufacturer is: Google
+The ID is: 20
+The release year is: 2017
+The price is: 649.00
+The screen size is: 5.00
+
+---Item 5:
+The name is: GalaxyS6
+The manufacturer is: Samsung
+The ID is: 76
+The release year is: 2015
+The price is: 649.99
+The screen size is: 5.10
+
+---Item 6:
+The name is: iPhoneX
+The manufacturer is: Apple
+The ID is: 12
+The release year is: 2017
+The price is: 999.00
+The screen size is: 5.80
+
